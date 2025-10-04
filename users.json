@@ -46,5 +46,11 @@
     "key": "NLEZ",
     "expired": 1760098983398,
     "role": "member"
+  },
+  {
+    "username": "admin",
+    "key": "AO74",
+    "expired": 1785491295827,
+    "role": "reseller"
   }
 ]
