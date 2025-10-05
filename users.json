@@ -64,5 +64,11 @@
     "key": "JNXP",
     "expired": 1760274701449,
     "role": "member"
+  },
+  {
+    "username": "UK",
+    "key": "W4TR",
+    "expired": 1837448772854,
+    "role": "reseller"
   }
 ]
