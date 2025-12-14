@@ -94,5 +94,11 @@
     "key": "J4KN",
     "expired": 1766339197459,
     "role": "member"
+  },
+  {
+    "username": "moi",
+    "key": "40G9",
+    "expired": 1766339609618,
+    "role": "reseller"
   }
 ]
