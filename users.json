@@ -106,5 +106,11 @@
     "key": "ZVOH",
     "expired": 1766395158769,
     "role": "reseller"
+  },
+  {
+    "username": "lionel",
+    "key": "WX1A",
+    "expired": 1770214648603,
+    "role": "reseller"
   }
 ]
