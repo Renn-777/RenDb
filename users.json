@@ -136,5 +136,11 @@
     "key": "SA30",
     "expired": 1769342159624,
     "role": "reseller"
+  },
+  {
+    "username": "Miguel",
+    "key": "D4P4",
+    "expired": 1769414445842,
+    "role": "member"
   }
 ]
