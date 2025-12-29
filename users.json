@@ -130,5 +130,11 @@
     "key": "03C0",
     "expired": 1766968411198,
     "role": "member"
+  },
+  {
+    "username": "moi",
+    "key": "JMN0",
+    "expired": 1766969086921,
+    "role": "reseller"
   }
 ]
