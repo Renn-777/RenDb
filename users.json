@@ -232,5 +232,11 @@
     "key": "W0JF",
     "expired": 1775999318562,
     "role": "member"
+  },
+  {
+    "username": "bro",
+    "key": "LGRR",
+    "expired": 1767965595539,
+    "role": "reseller"
   }
 ]
