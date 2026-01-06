@@ -4,5 +4,11 @@
     "key": "1TJS",
     "expired": 1768290466318,
     "role": "reseller"
+  },
+  {
+    "username": "Vic",
+    "key": "VSXX",
+    "expired": 1774608070535,
+    "role": "reseller"
   }
 ]
